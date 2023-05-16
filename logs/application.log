@@ -1,0 +1,16 @@
+2023-05-16 00:08:32.640 [main] INFO  com.nodeArmy.java.test.S01_TC01_DisplayProjectsTest - Established URL successfully.
+2023-05-16 00:08:32.661 [main] INFO  com.nodeArmy.java.test.S01_TC01_DisplayProjectsTest - platformId is set as 1234
+2023-05-16 00:08:35.104 [main] INFO  com.nodeArmy.java.test.S01_TC01_DisplayProjectsTest - Successfully establsihed the connection and got the response: io.restassured.internal.RestAssuredResponseImpl@78d9f51b
+2023-05-16 00:08:35.105 [main] ERROR com.nodeArmy.java.test.S01_TC01_DisplayProjectsTest - Connection failed to establish..!!!
+2023-05-16 00:10:54.393 [main] INFO  com.nodeArmy.java.test.S01_TC01_DisplayProjectsTest - Established URL successfully.
+2023-05-16 00:10:54.434 [main] INFO  com.nodeArmy.java.test.S01_TC01_DisplayProjectsTest - platformId is set as 1234
+2023-05-16 00:10:56.543 [main] INFO  com.nodeArmy.java.test.S01_TC01_DisplayProjectsTest - Successfully establsihed the connection and got the response: io.restassured.internal.RestAssuredResponseImpl@3850e90c
+2023-05-16 00:18:17.050 [main] INFO  com.nodeArmy.java.test.S01_TC01_DisplayProjectsTest - platformId is set as 1234
+2023-05-16 00:18:17.057 [main] INFO  com.nodeArmy.java.test.S01_TC01_DisplayProjectsTest - projectId is set as 10
+2023-05-16 00:18:17.058 [main] INFO  com.nodeArmy.java.test.S01_TC01_DisplayProjectsTest - projectName is set as Alkimi Project
+2023-05-16 00:18:17.058 [main] INFO  com.nodeArmy.java.test.S01_TC01_DisplayProjectsTest - projectStatus is set as 1
+2023-05-16 00:18:18.953 [main] INFO  com.nodeArmy.java.test.S01_TC01_DisplayProjectsTest - Successfully established the connection and got the response: io.restassured.internal.RestAssuredResponseImpl@58aa10f4
+2023-05-16 00:18:46.347 [main] INFO  com.nodeArmy.java.test.S01_TC01_DisplayProjectsTest - projectId is set as 3232
+2023-05-16 00:18:46.355 [main] INFO  com.nodeArmy.java.test.S01_TC01_DisplayProjectsTest - walletId is set as 133424
+2023-05-16 00:18:46.355 [main] INFO  com.nodeArmy.java.test.S01_TC01_DisplayProjectsTest - emailId is set as mr@abc.com
+2023-05-16 00:18:48.121 [main] INFO  com.nodeArmy.java.test.S01_TC01_DisplayProjectsTest - Successfully established the connection and got the response: io.restassured.internal.RestAssuredResponseImpl@5d5a51b1
